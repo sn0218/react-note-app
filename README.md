@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/48129546/184170271-16f21b72-5068-4c24-87fe-9ddfb9a06717.png)
+![image](https://user-images.githubusercontent.com/48129546/184170271-16f21b72-5068-4c24-87fe-9ddfb9a06717.png | width=400) 
 
 # Description
 Learning React to build a note application.

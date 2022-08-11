@@ -1,5 +1,5 @@
 # Credit
-Thank you Dennis Ivy for teaching React JS Crash Course
+Thank you Dennis Ivy for teaching React JS Crash Course.  
 The original repository is in https://github.com/divanov11/notes-app
 
 # Getting Started with Create React App

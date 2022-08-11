@@ -7,10 +7,10 @@ Learning React to build a note application.
 ```
 npm install
 
-Run the backend json server on port 5000
+Run the backend json server on port 5000:
 npm run server 
 
-Run the react server
+Run the react server:
 npm start 
 ```
 

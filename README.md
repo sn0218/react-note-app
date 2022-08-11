@@ -4,7 +4,7 @@
 Learning React to build a note application.
 
 # Get started
-`
+```
 npm install
 
 Run the backend json server on port 5000
@@ -12,7 +12,7 @@ npm run server
 
 Run the react server
 npm start 
-`
+```
 
 # Credit
 Thank you Dennis Ivy for teaching React JS Crash Course about writing the noteapp

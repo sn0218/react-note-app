@@ -17,5 +17,5 @@ npm start
 ```
 
 # Credit
-Thank you Dennis Ivy for teaching React JS Crash Course about writing the noteapp
+Thank you Dennis Ivy for teaching React JS Crash Course about writing the noteapp.  
 The original repository is in https://github.com/divanov11/notes-app

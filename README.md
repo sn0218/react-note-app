@@ -1,4 +1,6 @@
-<img align="center" src="https://user-images.githubusercontent.com/48129546/184170271-16f21b72-5068-4c24-87fe-9ddfb9a06717.png" width=70% height=70%>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48129546/184170271-16f21b72-5068-4c24-87fe-9ddfb9a06717.png" width=70% height=70%>
+</p>
 
 # Description
 Learning React to build a note application.

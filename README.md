@@ -5,6 +5,9 @@
 # Description
 Learning React to build a note application.
 
+Frontend: React
+Backend: Json Server
+
 # Get started
 ```
 npm install

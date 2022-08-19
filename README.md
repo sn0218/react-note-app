@@ -3,9 +3,9 @@
 </p>
 
 # Description
-Learning React to build a note application.
+This note application is built for learning purpose.
 
-Frontend: React
+Frontend: React.js  
 Backend: Json Server
 
 # Get started
